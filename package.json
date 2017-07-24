@@ -1,0 +1,27 @@
+{
+  "name": "fis3-hook-cmod",
+  "version": "0.0.1",
+  "description": "fis3 cmd plugin only for CUI5",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CFEA/fis3-hook-cmod.git"
+  },
+  "keywords": [
+    "fis3",
+    "commonJs",
+    "module"
+  ],
+  "author": "liangia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CFEA/fis3-hook-cmod/issues"
+  },
+  "homepage": "https://github.com/CFEA/fis3-hook-cmod",
+
+  "dependencies": {
+  }
+}
